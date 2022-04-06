@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1649210527 source:/home/alex/Documents/c_c++/sdl_test/main.cpp
+	<stdio.h>
+	"GameLoop.h"
+
+1649210718 /home/alex/Documents/c_c++/sdl_test/include/GameLoop.h
+	"SDL2/SDL.h"
+	<iostream>
+
